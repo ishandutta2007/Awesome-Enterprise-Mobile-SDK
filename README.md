@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discrrd&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Mobile-SDK/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Mobile-SDK?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Mobile-SDK/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Mobile-SDK?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Mobile-SDK/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Mobile-SDK?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Mobile-SDK/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Mobile-SDK/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
@@ -67,115 +67,115 @@ The table below catalogs leading commercial SaaS mobile platforms and SDKs, **so
 
 Curated repository catalog of open-source frameworks, client libraries, databases, and UI engines powering enterprise mobile development. **Sorted descending by GitHub stargazer count**.
 
-1. **[Flutter](https://github.com/flutter/flutter)** [![GitHub stars](https://img.shields.io/github/stars/flutter/flutter?style=social&color=white)](https://github.com/flutter/flutter/stargazers)  
+1. **[Flutter](https://github.com/flutter/flutter)** [![GitHub_Stars](https://img.shields.io/github/stars/flutter/flutter?style=social&color=white)](https://github.com/flutter/flutter/stargazers)  
    *Google's UI toolkit (BSD-3-Clause) for building natively compiled cross-platform applications for mobile, web, and desktop from a single Dart codebase.*  
    `High-Performance Rendering` `Declarative UI` `Multi-Platform`
 
-2. **[React Native](https://github.com/facebook/react-native)** [![GitHub stars](https://img.shields.io/github/stars/facebook/react-native?style=social&color=white)](https://github.com/facebook/react-native/stargazers)  
+2. **[React Native](https://github.com/facebook/react-native)** [![GitHub_Stars](https://img.shields.io/github/stars/facebook/react-native?style=social&color=white)](https://github.com/facebook/react-native/stargazers)  
    *Meta's framework (MIT) for building native iOS and Android apps using React and JavaScript/TypeScript. Features the New Architecture with Fabric and TurboModules.*  
    `Fabric Renderer` `TurboModules` `Hermes Engine`
 
-3. **[Ionic Framework](https://github.com/ionic-team/ionic-framework)** [![GitHub stars](https://img.shields.io/github/stars/ionic-team/ionic-framework?style=social&color=white)](https://github.com/ionic-team/ionic-framework/stargazers)  
+3. **[Ionic Framework](https://github.com/ionic-team/ionic-framework)** [![GitHub_Stars](https://img.shields.io/github/stars/ionic-team/ionic-framework?style=social&color=white)](https://github.com/ionic-team/ionic-framework/stargazers)  
    *Cross-platform UI toolkit (MIT) for building native-quality iOS, Android, and Progressive Web Apps with standard Web Components, Angular, React, and Vue.*  
    `Web Components` `PWA & Hybrid` `UI Toolkit`
 
-4. **[Expo](https://github.com/expo/expo)** [![GitHub stars](https://img.shields.io/github/stars/expo/expo?style=social&color=white)](https://github.com/expo/expo/stargazers)  
+4. **[Expo](https://github.com/expo/expo)** [![GitHub_Stars](https://img.shields.io/github/stars/expo/expo?style=social&color=white)](https://github.com/expo/expo/stargazers)  
    *Universal React Native framework and development platform (MIT) with managed workflows, native module bridging, and EAS cloud build pipelines.*  
    `Universal Apps` `EAS Workflows` `Native Modules`
 
-5. **[NativeScript](https://github.com/NativeScript/NativeScript)** [![GitHub stars](https://img.shields.io/github/stars/NativeScript/NativeScript?style=social&color=white)](https://github.com/NativeScript/NativeScript/stargazers)  
+5. **[NativeScript](https://github.com/NativeScript/NativeScript)** [![GitHub_Stars](https://img.shields.io/github/stars/NativeScript/NativeScript?style=social&color=white)](https://github.com/NativeScript/NativeScript/stargazers)  
    *Empowers developers to build 100% native mobile apps (Apache-2.0) using JavaScript, TypeScript, Angular, or Vue without WebViews.*  
    `Direct Native APIs` `Zero WebView` `TypeScript`
 
-6. **[.NET MAUI](https://github.com/dotnet/maui)** [![GitHub stars](https://img.shields.io/github/stars/dotnet/maui?style=social&color=white)](https://github.com/dotnet/maui/stargazers)  
+6. **[.NET MAUI](https://github.com/dotnet/maui)** [![GitHub_Stars](https://img.shields.io/github/stars/dotnet/maui?style=social&color=white)](https://github.com/dotnet/maui/stargazers)  
    *Microsoft's .NET Multi-platform App UI (MIT) framework for creating native mobile and desktop applications with C# and XAML from a unified project system.*  
    `Enterprise .NET` `C# & XAML` `Cross-Platform`
 
-7. **[Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform)** [![GitHub stars](https://img.shields.io/github/stars/JetBrains/compose-multiplatform?style=social&color=white)](https://github.com/JetBrains/compose-multiplatform/stargazers)  
+7. **[Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform)** [![GitHub_Stars](https://img.shields.io/github/stars/JetBrains/compose-multiplatform?style=social&color=white)](https://github.com/JetBrains/compose-multiplatform/stargazers)  
    *JetBrains' declarative UI framework (Apache-2.0) based on Kotlin Multiplatform (KMP), enabling shared UI code across Android, iOS, desktop, and web.*  
    `Kotlin Multiplatform` `Jetpack Compose` `Native iOS Render`
 
-8. **[PouchDB](https://github.com/pouchdb/pouchdb)** [![GitHub stars](https://img.shields.io/github/stars/pouchdb/pouchdb?style=social&color=white)](https://github.com/pouchdb/pouchdb/stargazers)  
+8. **[PouchDB](https://github.com/pouchdb/pouchdb)** [![GitHub_Stars](https://img.shields.io/github/stars/pouchdb/pouchdb?style=social&color=white)](https://github.com/pouchdb/pouchdb/stargazers)  
    *Open-source in-browser and mobile database (Apache-2.0) designed to synchronize with CouchDB and remote databases, enabling robust offline-first functionality.*  
    `Offline-First` `CouchDB Protocol` `Bidirectional Sync`
 
-9. **[Capacitor](https://github.com/ionic-team/capacitor)** [![GitHub stars](https://img.shields.io/github/stars/ionic-team/capacitor?style=social&color=white)](https://github.com/ionic-team/capacitor/stargazers)  
+9. **[Capacitor](https://github.com/ionic-team/capacitor)** [![GitHub_Stars](https://img.shields.io/github/stars/ionic-team/capacitor?style=social&color=white)](https://github.com/ionic-team/capacitor/stargazers)  
    *Cross-platform native runtime (MIT) by Ionic that turns modern web apps into native iOS and Android apps with full access to device native APIs.*  
    `Cordova Successor` `Web Runtime` `Modern Native Plugins`
 
-10. **[React Native Paper](https://github.com/callstack/react-native-paper)** [![GitHub stars](https://img.shields.io/github/stars/callstack/react-native-paper?style=social&color=white)](https://github.com/callstack/react-native-paper/stargazers)  
+10. **[React Native Paper](https://github.com/callstack/react-native-paper)** [![GitHub_Stars](https://img.shields.io/github/stars/callstack/react-native-paper?style=social&color=white)](https://github.com/callstack/react-native-paper/stargazers)  
     *High-quality, customizable Material Design component library (MIT) for React Native, supporting dark theme and accessible enterprise UX.*  
     `Material Design 3` `Theming` `Accessibility`
 
-11. **[React Native Firebase](https://github.com/invertase/react-native-firebase)** [![GitHub stars](https://img.shields.io/github/stars/invertase/react-native-firebase?style=social&color=white)](https://github.com/invertase/react-native-firebase/stargazers)  
+11. **[React Native Firebase](https://github.com/invertase/react-native-firebase)** [![GitHub_Stars](https://img.shields.io/github/stars/invertase/react-native-firebase?style=social&color=white)](https://github.com/invertase/react-native-firebase/stargazers)  
     *Battle-tested, modular React Native integration (Apache-2.0) for all Firebase services on iOS and Android with strict TypeScript typings.*  
     `Modular Architecture` `Push Notifications` `Analytics & Auth`
 
-12. **[WatermelonDB](https://github.com/Nozbe/WatermelonDB)** [![GitHub stars](https://img.shields.io/github/stars/Nozbe/WatermelonDB?style=social&color=white)](https://github.com/Nozbe/WatermelonDB/stargazers)  
+12. **[WatermelonDB](https://github.com/Nozbe/WatermelonDB)** [![GitHub_Stars](https://img.shields.io/github/stars/Nozbe/WatermelonDB?style=social&color=white)](https://github.com/Nozbe/WatermelonDB/stargazers)  
     *Reactive database framework (MIT) optimized for React Native and web applications, scaling smoothly to tens of thousands of records via lazy loading.*  
     `Reactive SQLite` `Extreme Scalability` `Offline Sync`
 
-13. **[React Native Reanimated](https://github.com/software-mansion/react-native-reanimated)** [![GitHub stars](https://img.shields.io/github/stars/software-mansion/react-native-reanimated?style=social&color=white)](https://github.com/software-mansion/react-native-reanimated/stargazers)  
+13. **[React Native Reanimated](https://github.com/software-mansion/react-native-reanimated)** [![GitHub_Stars](https://img.shields.io/github/stars/software-mansion/react-native-reanimated?style=social&color=white)](https://github.com/software-mansion/react-native-reanimated/stargazers)  
     *Fluid animation and gesture-driven interaction library (MIT) executing directly on the UI thread for smooth 60/120 FPS enterprise mobile interactions.*  
     `UI Thread Worklets` `Fluid Micro-interactions` `Gestures`
 
-14. **[AWS Amplify JS](https://github.com/aws-amplify/amplify-js)** [![GitHub stars](https://img.shields.io/github/stars/aws-amplify/amplify-js?style=social&color=white)](https://github.com/aws-amplify/amplify-js/stargazers)  
+14. **[AWS Amplify JS](https://github.com/aws-amplify/amplify-js)** [![GitHub_Stars](https://img.shields.io/github/stars/aws-amplify/amplify-js?style=social&color=white)](https://github.com/aws-amplify/amplify-js/stargazers)  
     *Declarative JavaScript and TypeScript client library (Apache-2.0) for connecting mobile apps to AWS cloud services with offline synchronization.*  
     `AppSync GraphQL` `Cognito Auth` `S3 Storage`
 
-15. **[SQLDelight](https://github.com/sqldelight/sqldelight)** [![GitHub stars](https://img.shields.io/github/stars/sqldelight/sqldelight?style=social&color=white)](https://github.com/sqldelight/sqldelight/stargazers)  
+15. **[SQLDelight](https://github.com/sqldelight/sqldelight)** [![GitHub_Stars](https://img.shields.io/github/stars/sqldelight/sqldelight?style=social&color=white)](https://github.com/sqldelight/sqldelight/stargazers)  
     *Generates typesafe Kotlin APIs from SQL statements (Apache-2.0), providing multiplatform database drivers for Android, iOS, JVM, and Web.*  
     `Kotlin Multiplatform` `Typesafe SQL` `Cross-Platform DB`
 
-16. **[ObjectBox Java/Kotlin](https://github.com/objectbox/objectbox-java)** [![GitHub stars](https://img.shields.io/github/stars/objectbox/objectbox-java?style=social&color=white)](https://github.com/objectbox/objectbox-java/stargazers)  
+16. **[ObjectBox Java/Kotlin](https://github.com/objectbox/objectbox-java)** [![GitHub_Stars](https://img.shields.io/github/stars/objectbox/objectbox-java?style=social&color=white)](https://github.com/objectbox/objectbox-java/stargazers)  
     *Ultra-fast embedded NoSQL database (Apache-2.0) for Android and desktop with integrated real-time synchronization and minimal memory overhead.*  
     `NoSQL Embedded` `High Throughput` `Real-Time Observers`
 
-17. **[Apollo Kotlin](https://github.com/apollographql/apollo-kotlin)** [![GitHub stars](https://img.shields.io/github/stars/apollographql/apollo-kotlin?style=social&color=white)](https://github.com/apollographql/apollo-kotlin/stargazers)  
+17. **[Apollo Kotlin](https://github.com/apollographql/apollo-kotlin)** [![GitHub_Stars](https://img.shields.io/github/stars/apollographql/apollo-kotlin?style=social&color=white)](https://github.com/apollographql/apollo-kotlin/stargazers)  
     *Strongly-typed, caching GraphQL client (MIT) for Android and Kotlin Multiplatform, featuring normalized caching and reactive Query subscriptions.*  
     `GraphQL Client` `Normalized Cache` `Kotlin Coroutines`
 
-18. **[Apache Cordova Android](https://github.com/apache/cordova-android)** [![GitHub stars](https://img.shields.io/github/stars/apache/cordova-android?style=social&color=white)](https://github.com/apache/cordova-android/stargazers)  
+18. **[Apache Cordova Android](https://github.com/apache/cordova-android)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/cordova-android?style=social&color=white)](https://github.com/apache/cordova-android/stargazers)  
     *Android application library (Apache-2.0) compiling standard HTML5, CSS3, and JavaScript code into native Android application packages.*  
     `Apache Foundation` `HTML5 Hybrid` `Plugin Ecosystem`
 
-19. **[Firebase Android SDK](https://github.com/firebase/firebase-android-sdk)** [![GitHub stars](https://img.shields.io/github/stars/firebase/firebase-android-sdk?style=social&color=white)](https://github.com/firebase/firebase-android-sdk/stargazers)  
+19. **[Firebase Android SDK](https://github.com/firebase/firebase-android-sdk)** [![GitHub_Stars](https://img.shields.io/github/stars/firebase/firebase-android-sdk?style=social&color=white)](https://github.com/firebase/firebase-android-sdk/stargazers)  
     *Open-source repository (Apache-2.0) containing the official Android client libraries for Google Cloud Firebase services.*  
     `Android Maven` `Firestore Client` `FCM Push`
 
-20. **[Matrix Rust SDK](https://github.com/matrix-org/matrix-rust-sdk)** [![GitHub stars](https://img.shields.io/github/stars/matrix-org/matrix-rust-sdk?style=social&color=white)](https://github.com/matrix-org/matrix-rust-sdk/stargazers)  
+20. **[Matrix Rust SDK](https://github.com/matrix-org/matrix-rust-sdk)** [![GitHub_Stars](https://img.shields.io/github/stars/matrix-org/matrix-rust-sdk?style=social&color=white)](https://github.com/matrix-org/matrix-rust-sdk/stargazers)  
     *High-security, client-side implementation of the Matrix federated messaging protocol in Rust (Apache-2.0) with bindings for iOS and Android.*  
     `End-to-End Encryption` `Decentralized Messaging` `Rust Bindings`
 
-21. **[Sentry React Native](https://github.com/getsentry/sentry-react-native)** [![GitHub stars](https://img.shields.io/github/stars/getsentry/sentry-react-native?style=social&color=white)](https://github.com/getsentry/sentry-react-native/stargazers)  
+21. **[Sentry React Native](https://github.com/getsentry/sentry-react-native)** [![GitHub_Stars](https://img.shields.io/github/stars/getsentry/sentry-react-native?style=social&color=white)](https://github.com/getsentry/sentry-react-native/stargazers)  
     *Real-time crash monitoring, ANR detection, and distributed tracing SDK (MIT) for React Native mobile applications.*  
     `Crash Diagnostics` `Session Replay` `Performance Tracing`
 
-22. **[Realm Kotlin](https://github.com/realm/realm-kotlin)** [![GitHub stars](https://img.shields.io/github/stars/realm/realm-kotlin?style=social&color=white)](https://github.com/realm/realm-kotlin/stargazers)  
+22. **[Realm Kotlin](https://github.com/realm/realm-kotlin)** [![GitHub_Stars](https://img.shields.io/github/stars/realm/realm-kotlin?style=social&color=white)](https://github.com/realm/realm-kotlin/stargazers)  
     *Mobile-first reactive database (Apache-2.0) for Kotlin Multiplatform and native Android, offering zero-copy object mapping and offline query speed.*  
     `Object Database` `Zero-Copy` `Reactive Coroutines`
 
-23. **[OneSignal Android SDK](https://github.com/OneSignal/OneSignal-Android-SDK)** [![GitHub stars](https://img.shields.io/github/stars/OneSignal/OneSignal-Android-SDK?style=social&color=white)](https://github.com/OneSignal/OneSignal-Android-SDK/stargazers)  
+23. **[OneSignal Android SDK](https://github.com/OneSignal/OneSignal-Android-SDK)** [![GitHub_Stars](https://img.shields.io/github/stars/OneSignal/OneSignal-Android-SDK?style=social&color=white)](https://github.com/OneSignal/OneSignal-Android-SDK/stargazers)  
     *Native Android client SDK (MIT) for push notifications, in-app messaging cards, badge counts, and user tagging.*  
     `Push Notifications` `FCM Integration` `In-App Messages`
 
-24. **[Salesforce Mobile SDK for iOS](https://github.com/forcedotcom/SalesforceMobileSDK-iOS)** [![GitHub stars](https://img.shields.io/github/stars/forcedotcom/SalesforceMobileSDK-iOS?style=social&color=white)](https://github.com/forcedotcom/SalesforceMobileSDK-iOS/stargazers)  
+24. **[Salesforce Mobile SDK for iOS](https://github.com/forcedotcom/SalesforceMobileSDK-iOS)** [![GitHub_Stars](https://img.shields.io/github/stars/forcedotcom/SalesforceMobileSDK-iOS?style=social&color=white)](https://github.com/forcedotcom/SalesforceMobileSDK-iOS/stargazers)  
     *Official open-source SDK (BSD-3-Clause) providing native Swift/Objective-C integration with Salesforce OAuth, SmartStore encrypted storage, and MobileSync.*  
     `Salesforce OAuth` `SmartStore Offline` `MobileSync REST`
 
-25. **[Salesforce Mobile SDK for Android](https://github.com/forcedotcom/SalesforceMobileSDK-Android)** [![GitHub stars](https://img.shields.io/github/stars/forcedotcom/SalesforceMobileSDK-Android?style=social&color=white)](https://github.com/forcedotcom/SalesforceMobileSDK-Android/stargazers)  
+25. **[Salesforce Mobile SDK for Android](https://github.com/forcedotcom/SalesforceMobileSDK-Android)** [![GitHub_Stars](https://img.shields.io/github/stars/forcedotcom/SalesforceMobileSDK-Android?style=social&color=white)](https://github.com/forcedotcom/SalesforceMobileSDK-Android/stargazers)  
     *Official open-source Android SDK (BSD-3-Clause) enabling native Kotlin/Java mobile enterprise integration with Salesforce data and security policies.*  
     `Android Keystore Security` `Offline Sync` `Salesforce APIs`
 
-26. **[Twilio Voice React Native](https://github.com/twilio/twilio-voice-react-native)** [![GitHub stars](https://img.shields.io/github/stars/twilio/twilio-voice-react-native?style=social&color=white)](https://github.com/twilio/twilio-voice-react-native/stargazers)  
+26. **[Twilio Voice React Native](https://github.com/twilio/twilio-voice-react-native)** [![GitHub_Stars](https://img.shields.io/github/stars/twilio/twilio-voice-react-native?style=social&color=white)](https://github.com/twilio/twilio-voice-react-native/stargazers)  
     *Official React Native wrapper (Apache-2.0) for Twilio Programmable Voice SDKs, supporting Expo config plugins and React Native New Architecture.*  
     `VoIP Audio` `WebRTC` `Expo Compatible`
 
-27. **[Agentforce Mobile SDK iOS](https://github.com/salesforce/AgentforceMobileSDK-iOS)** [![GitHub stars](https://img.shields.io/github/salesforce/AgentforceMobileSDK-iOS?style=social&color=white)](https://github.com/salesforce/AgentforceMobileSDK-iOS/stargazers)  
+27. **[Agentforce Mobile SDK iOS](https://github.com/salesforce/AgentforceMobileSDK-iOS)** [![GitHub_Stars](https://img.shields.io/github/salesforce/AgentforceMobileSDK-iOS?style=social&color=white)](https://github.com/salesforce/AgentforceMobileSDK-iOS/stargazers)  
     *Salesforce SDK (BSD-3-Clause) for embedding autonomous generative AI agents into enterprise iOS applications with optional LiveKit voice.*  
     `Enterprise AI Agents` `Swift & SPM` `LiveKit Audio`
 
-28. **[Sendbird Chat SDK Android](https://github.com/sendbird/sendbird-chat-sdk-android)** [![GitHub stars](https://img.shields.io/github/sendbird/sendbird-chat-sdk-android?style=social&color=white)](https://github.com/sendbird/sendbird-chat-sdk-android/stargazers)  
+28. **[Sendbird Chat SDK Android](https://github.com/sendbird/sendbird-chat-sdk-android)** [![GitHub_Stars](https://img.shields.io/github/sendbird/sendbird-chat-sdk-android?style=social&color=white)](https://github.com/sendbird/sendbird-chat-sdk-android/stargazers)  
     *Native Android SDK (Apache-2.0) delivering scalable in-app chat, channel state synchronization, and background FCM push routing.*  
     `Real-Time Chat` `TLS 1.3 Security` `FCM Push Handling`
 
@@ -227,7 +227,7 @@ We welcome contributions from mobile developers, enterprise architects, and open
 3. 📝 **Add Your Entry:**
    - For **SaaS Platforms:** Maintain the table format with specific starting pricing and verified free tier limits.
    - For **Open-Source Projects:** Include the project description and ensure the repo includes the stargazers social badge:
-     `[![GitHub stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`
+     `[![GitHub_Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`
 4. 🚀 **Submit a Pull Request** with a succinct description of the library's enterprise relevance.
 
 ---
