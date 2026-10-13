@@ -8,6 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Mobile-SDK/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Mobile-SDK?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Mobile-SDK/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Mobile-SDK/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/githu//followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -27,6 +28,8 @@ Welcome to the definitive developer reference and architectural catalog for **En
 - [🌐 Open-Source Frameworks & Libraries](#-open-source-frameworks--libraries)
 - [🏗️ Architectural Blueprint for Enterprise Mobile](#️-architectural-blueprint-for-enterprise-mobile)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#--star-history)
 - [⚖️ Compliance & Disclaimer](#️-compliance--disclaimer)
 
 ---
@@ -226,6 +229,33 @@ We welcome contributions from mobile developers, enterprise architects, and open
    - For **Open-Source Projects:** Include the project description and ensure the repo includes the stargazers social badge:
      `[![GitHub stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`
 4. 🚀 **Submit a Pull Request** with a succinct description of the library's enterprise relevance.
+
+---
+
+## 💖 Support
+
+A huge thank you to all the mobile engineers, open-source contributors, and enterprise architects exploring this repository! 🙌
+
+If you find this ecosystem guide helpful, here is how you can support the project:
+- ⭐ **Star this repository:** Show appreciation and increase visibility.
+- 🍴 **Fork & Contribute:** Help keep pricing, quotas, and frameworks up to date.
+- 📢 **Share:** Recommend it to your team, colleagues, and developer networks.
+- ☕ **Buy Me a Coffee / Sponsor:** Support ongoing maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007):
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Enterprise-Mobile-SDK&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Enterprise-Mobile-SDK&type=date&legend=top-left)
 
 ---
 
